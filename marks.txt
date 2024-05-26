@@ -1,0 +1,7 @@
+('Ashish Kumar Pandey', '8409175530', '87', '85', '98', '94', '99', '92', '99', '')
+('Ashish Kumar Pandey', '8409175530', '87', '85', '98', '94', '99', '92', '99', '')
+('Ashish Kumar Pandey', '8409175530', '87', '85', '98', '94', '99', '92', '99', '95')
+('ashish', '76736', '89', '89', '89', '98', '99', '85', '90', '91')
+('amit', '76736', '89', '89', '89', '98', '99', '85', '90', '91')
+{'Enter Your Name': 'asd', 'Enter Your USN': '88', 'Management and Enterprise for IT Industry': '88', 'Computer Networks': '88', 'Database Management System': '88', 'Automata Theory and Computability': '88', 'Java Advance': '88', 'Artificial Intelligence': '88', 'Computer Networks Lab': '88', 'Database Management System Lab': '100'}
+{'Enter Your Name': 'ashish', 'Enter Your USN': '786879', 'Management and Enterprise for IT Industry': '89', 'Computer Networks': '85', 'Database Management System': '82', 'Automata Theory and Computability': '95', 'Java Advance': '94', 'Artificial Intelligence': '91', 'Computer Networks Lab': '88', 'Database Management System Lab': '86'}
